@@ -15,7 +15,7 @@ An interactive web application that allows users to change the background color 
 
 ## Preview 👀
 
-![Background Color Changer Screenshot](path/to/your/screenshot.png)
+![Background Color Changer Screenshot](screenshot.png)
 
 ---
 
